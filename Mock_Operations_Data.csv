@@ -1,0 +1,301 @@
+Ticket_ID,Created_Date,Resolved_Date,Case_Category,Priority,Status,Assigned_Team,Assigned_Region,SLA_Target_Hours
+TKT-001,24-03-2026,28-03-2026,Escalation,P4-Low,In Progress,Beta,APAC,4
+TKT-002,27-02-2026,28-02-2026,Payments,P3-Medium,Resolved,Delta,East,8
+TKT-003,20-05-2026,24-05-2026,Title,P2-High,Resolved,Alpha,West,24
+TKT-004,10-01-2026,14-01-2026,Escalation,P3-Medium,Open,Alpha,West,4
+TKT-005,19-05-2026,22-05-2026,Payments,P2-High,Resolved,Gamma,APAC,48
+TKT-006,06-03-2026,12-03-2026,Technical,P1-Critical,Resolved,Gamma,EMEA,48
+TKT-007,23-03-2026,24-03-2026,Escalation,P4-Low,Closed,Beta,Central,24
+TKT-008,18-04-2026,20-04-2026,Technical,P2-High,Resolved,Delta,Central,48
+TKT-009,05-02-2026,06-02-2026,Escalation,P4-Low,Pending Stakeholder,Beta,East,4
+TKT-010,04-04-2026,,Escalation,P4-Low,In Progress,Alpha,West,24
+TKT-011,29-05-2026,05-06-2026,Escalation,P4-Low,Resolved,Alpha,APAC,48
+TKT-012,24-02-2026,25-02-2026,Technical,P4-Low,In Progress,Gamma,East,4
+TKT-013,02-04-2026,,Technical,P4-Low,Open,Delta,East,24
+TKT-014,11-04-2026,16-04-2026,Technical,P3-Medium,Closed,Gamma,Central,8
+TKT-015,11-04-2026,,Payments,P3-Medium,In Progress,Alpha,APAC,4
+TKT-016,20-03-2026,,Licensing,P3-Medium,In Progress,Alpha,APAC,48
+TKT-017,17-05-2026,,Licensing,P2-High,Pending Stakeholder,Alpha,EMEA,8
+TKT-018,08-05-2026,12-05-2026,Title,P1-Critical,In Progress,Gamma,EMEA,8
+TKT-019,14-02-2026,23-02-2026,Technical,P4-Low,Closed,Gamma,East,48
+TKT-020,14-04-2026,23-04-2026,Escalation,P3-Medium,Pending Stakeholder,Delta,APAC,8
+TKT-021,17-05-2026,20-05-2026,Licensing,P4-Low,Resolved,Delta,EMEA,24
+TKT-022,28-04-2026,30-04-2026,Technical,P1-Critical,Closed,Beta,Central,48
+TKT-023,17-02-2026,22-02-2026,Title,P1-Critical,Closed,Delta,APAC,8
+TKT-024,01-01-2026,04-01-2026,Licensing,P3-Medium,Closed,Alpha,APAC,24
+TKT-025,08-01-2026,16-01-2026,Payments,P4-Low,Open,Beta,APAC,4
+TKT-026,12-01-2026,22-01-2026,Title,P1-Critical,Closed,Gamma,East,24
+TKT-027,01-02-2026,03-02-2026,Technical,P3-Medium,Pending Stakeholder,Delta,East,4
+TKT-028,18-02-2026,,Licensing,P1-Critical,Pending Stakeholder,Delta,APAC,8
+TKT-029,17-05-2026,26-05-2026,Licensing,P1-Critical,In Progress,Alpha,APAC,48
+TKT-030,28-06-2026,08-07-2026,Payments,P2-High,In Progress,Delta,East,24
+TKT-031,14-05-2026,19-05-2026,Licensing,P3-Medium,Closed,Delta,West,48
+TKT-032,14-04-2026,17-04-2026,Technical,P3-Medium,Open,Gamma,West,4
+TKT-033,29-06-2026,,Payments,P3-Medium,In Progress,Gamma,Central,24
+TKT-034,22-06-2026,25-06-2026,Title,P3-Medium,Open,Alpha,West,8
+TKT-035,04-03-2026,,Technical,P1-Critical,Pending Stakeholder,Gamma,East,4
+TKT-036,25-03-2026,02-04-2026,Title,P4-Low,Closed,Delta,East,8
+TKT-037,09-06-2026,12-06-2026,Licensing,P2-High,Closed,Beta,West,48
+TKT-038,10-05-2026,,Payments,P1-Critical,Open,Gamma,EMEA,4
+TKT-039,22-03-2026,30-03-2026,Licensing,P3-Medium,In Progress,Delta,Central,48
+TKT-040,17-04-2026,22-04-2026,Technical,P2-High,Resolved,Gamma,Central,8
+TKT-041,16-06-2026,21-06-2026,Licensing,P1-Critical,Open,Gamma,Central,4
+TKT-042,13-02-2026,,Licensing,P1-Critical,Resolved,Gamma,Central,24
+TKT-043,31-03-2026,,Escalation,P4-Low,Closed,Alpha,East,24
+TKT-044,13-01-2026,17-01-2026,Licensing,P1-Critical,Pending Stakeholder,Gamma,West,48
+TKT-045,20-05-2026,,Title,P1-Critical,Resolved,Beta,West,4
+TKT-046,01-05-2026,08-05-2026,Payments,P3-Medium,Open,Beta,APAC,4
+TKT-047,07-02-2026,15-02-2026,Payments,P1-Critical,Closed,Delta,Central,24
+TKT-048,20-04-2026,,Licensing,P2-High,Resolved,Beta,EMEA,48
+TKT-049,28-01-2026,06-02-2026,Licensing,P1-Critical,Pending Stakeholder,Delta,East,8
+TKT-050,19-03-2026,,Escalation,P4-Low,Pending Stakeholder,Beta,East,4
+TKT-051,01-05-2026,10-05-2026,Title,P4-Low,Pending Stakeholder,Alpha,Central,24
+TKT-052,09-05-2026,,Escalation,P3-Medium,Open,Alpha,West,48
+TKT-053,15-03-2026,19-03-2026,Title,P4-Low,Closed,Gamma,East,24
+TKT-054,06-02-2026,,Escalation,P2-High,Open,Gamma,Central,48
+TKT-055,24-05-2026,28-05-2026,Licensing,P4-Low,Closed,Delta,East,48
+TKT-056,10-05-2026,17-05-2026,Licensing,P3-Medium,In Progress,Alpha,Central,24
+TKT-057,25-01-2026,,Title,P1-Critical,Open,Delta,Central,4
+TKT-058,06-06-2026,11-06-2026,Payments,P1-Critical,In Progress,Gamma,EMEA,48
+TKT-059,27-04-2026,29-04-2026,Licensing,P2-High,Resolved,Beta,EMEA,48
+TKT-060,30-04-2026,04-05-2026,Escalation,P4-Low,Closed,Beta,APAC,48
+TKT-061,09-03-2026,18-03-2026,Escalation,P1-Critical,Resolved,Beta,APAC,8
+TKT-062,20-04-2026,,Technical,P1-Critical,Pending Stakeholder,Beta,Central,8
+TKT-063,27-06-2026,28-06-2026,Title,P4-Low,Pending Stakeholder,Delta,EMEA,8
+TKT-064,26-01-2026,04-02-2026,Payments,P4-Low,Open,Delta,East,4
+TKT-065,07-06-2026,13-06-2026,Escalation,P3-Medium,Closed,Gamma,Central,8
+TKT-066,05-03-2026,,Technical,P2-High,In Progress,Gamma,APAC,48
+TKT-067,21-05-2026,28-05-2026,Payments,P4-Low,Pending Stakeholder,Alpha,EMEA,24
+TKT-068,03-02-2026,13-02-2026,Escalation,P4-Low,Closed,Gamma,APAC,24
+TKT-069,20-04-2026,23-04-2026,Licensing,P1-Critical,In Progress,Beta,APAC,24
+TKT-070,20-05-2026,28-05-2026,Technical,P4-Low,In Progress,Alpha,EMEA,8
+TKT-071,11-01-2026,20-01-2026,Licensing,P4-Low,Pending Stakeholder,Alpha,APAC,24
+TKT-072,13-05-2026,21-05-2026,Title,P4-Low,Closed,Gamma,EMEA,24
+TKT-073,18-02-2026,21-02-2026,Technical,P4-Low,In Progress,Delta,West,8
+TKT-074,04-05-2026,,Technical,P4-Low,Resolved,Alpha,East,24
+TKT-075,05-05-2026,10-05-2026,Title,P2-High,Open,Gamma,East,48
+TKT-076,29-06-2026,01-07-2026,Payments,P4-Low,Closed,Delta,APAC,4
+TKT-077,21-06-2026,26-06-2026,Title,P2-High,Open,Beta,Central,48
+TKT-078,11-01-2026,13-01-2026,Licensing,P4-Low,Pending Stakeholder,Gamma,West,48
+TKT-079,27-04-2026,30-04-2026,Licensing,P4-Low,Resolved,Alpha,East,24
+TKT-080,27-01-2026,,Payments,P1-Critical,Closed,Alpha,East,8
+TKT-081,22-05-2026,29-05-2026,Title,P1-Critical,In Progress,Gamma,East,8
+TKT-082,28-03-2026,,Licensing,P4-Low,Resolved,Gamma,Central,4
+TKT-083,18-01-2026,25-01-2026,Title,P3-Medium,Resolved,Alpha,EMEA,48
+TKT-084,18-04-2026,26-04-2026,Title,P4-Low,Resolved,Gamma,Central,24
+TKT-085,18-06-2026,20-06-2026,Payments,P4-Low,Closed,Beta,APAC,8
+TKT-086,08-03-2026,14-03-2026,Escalation,P3-Medium,Closed,Gamma,Central,4
+TKT-087,03-04-2026,,Payments,P4-Low,Open,Alpha,East,24
+TKT-088,15-01-2026,17-01-2026,Title,P3-Medium,In Progress,Alpha,APAC,24
+TKT-089,24-06-2026,26-06-2026,Title,P2-High,Closed,Beta,West,8
+TKT-090,19-04-2026,28-04-2026,Escalation,P4-Low,Resolved,Gamma,East,8
+TKT-091,04-06-2026,07-06-2026,Payments,P2-High,Closed,Gamma,Central,24
+TKT-092,28-01-2026,,Payments,P1-Critical,Pending Stakeholder,Alpha,APAC,4
+TKT-093,11-03-2026,16-03-2026,Title,P1-Critical,Pending Stakeholder,Delta,EMEA,4
+TKT-094,02-02-2026,10-02-2026,Payments,P1-Critical,Closed,Delta,EMEA,24
+TKT-095,24-03-2026,02-04-2026,Licensing,P3-Medium,Pending Stakeholder,Gamma,APAC,24
+TKT-096,18-02-2026,,Escalation,P3-Medium,Pending Stakeholder,Beta,EMEA,4
+TKT-097,02-01-2026,03-01-2026,Technical,P4-Low,Closed,Alpha,Central,8
+TKT-098,24-03-2026,26-03-2026,Payments,P2-High,In Progress,Delta,Central,48
+TKT-099,23-06-2026,03-07-2026,Technical,P4-Low,Resolved,Beta,APAC,24
+TKT-100,04-01-2026,08-01-2026,Technical,P1-Critical,Open,Alpha,APAC,4
+TKT-101,17-06-2026,,Escalation,P1-Critical,Open,Delta,East,8
+TKT-102,01-05-2026,06-05-2026,Technical,P2-High,Open,Delta,East,48
+TKT-103,27-05-2026,,Payments,P3-Medium,Resolved,Alpha,Central,24
+TKT-104,14-06-2026,,Title,P2-High,Closed,Gamma,Central,48
+TKT-105,17-04-2026,22-04-2026,Technical,P3-Medium,Closed,Alpha,West,24
+TKT-106,03-04-2026,,Payments,P1-Critical,In Progress,Delta,EMEA,24
+TKT-107,12-02-2026,19-02-2026,Payments,P1-Critical,Pending Stakeholder,Beta,EMEA,24
+TKT-108,04-06-2026,14-06-2026,Title,P2-High,Resolved,Delta,Central,4
+TKT-109,10-04-2026,,Licensing,P2-High,Resolved,Gamma,Central,24
+TKT-110,16-01-2026,,Licensing,P2-High,Resolved,Delta,Central,48
+TKT-111,19-05-2026,,Technical,P3-Medium,Pending Stakeholder,Delta,APAC,4
+TKT-112,09-02-2026,,Technical,P1-Critical,Closed,Gamma,EMEA,24
+TKT-113,25-01-2026,,Escalation,P2-High,Open,Alpha,East,8
+TKT-114,14-04-2026,17-04-2026,Escalation,P3-Medium,Resolved,Gamma,EMEA,24
+TKT-115,05-01-2026,,Licensing,P4-Low,Open,Delta,West,24
+TKT-116,18-06-2026,26-06-2026,Escalation,P4-Low,Pending Stakeholder,Delta,APAC,8
+TKT-117,09-06-2026,16-06-2026,Escalation,P2-High,Pending Stakeholder,Gamma,APAC,4
+TKT-118,16-02-2026,24-02-2026,Technical,P1-Critical,Resolved,Gamma,West,8
+TKT-119,21-04-2026,25-04-2026,Title,P2-High,Resolved,Beta,Central,48
+TKT-120,09-06-2026,13-06-2026,Title,P3-Medium,Closed,Alpha,East,48
+TKT-121,21-06-2026,23-06-2026,Title,P2-High,Open,Delta,EMEA,8
+TKT-122,23-06-2026,01-07-2026,Technical,P1-Critical,Resolved,Gamma,EMEA,8
+TKT-123,14-04-2026,16-04-2026,Licensing,P3-Medium,Open,Alpha,East,4
+TKT-124,15-02-2026,25-02-2026,Licensing,P3-Medium,Open,Gamma,EMEA,4
+TKT-125,21-01-2026,31-01-2026,Escalation,P2-High,Pending Stakeholder,Beta,East,8
+TKT-126,06-03-2026,08-03-2026,Technical,P1-Critical,In Progress,Alpha,APAC,8
+TKT-127,06-01-2026,,Technical,P3-Medium,Pending Stakeholder,Beta,West,4
+TKT-128,05-02-2026,09-02-2026,Licensing,P3-Medium,In Progress,Alpha,Central,24
+TKT-129,23-06-2026,25-06-2026,Licensing,P1-Critical,In Progress,Alpha,East,24
+TKT-130,18-02-2026,25-02-2026,Payments,P1-Critical,In Progress,Beta,West,24
+TKT-131,30-03-2026,06-04-2026,Licensing,P1-Critical,Pending Stakeholder,Beta,EMEA,8
+TKT-132,28-04-2026,,Payments,P2-High,Pending Stakeholder,Beta,East,24
+TKT-133,08-01-2026,,Licensing,P3-Medium,In Progress,Delta,East,24
+TKT-134,01-02-2026,03-02-2026,Licensing,P2-High,Open,Gamma,East,4
+TKT-135,21-03-2026,27-03-2026,Payments,P2-High,In Progress,Beta,East,8
+TKT-136,17-04-2026,21-04-2026,Payments,P4-Low,Pending Stakeholder,Alpha,Central,8
+TKT-137,25-02-2026,04-03-2026,Escalation,P3-Medium,Resolved,Delta,West,4
+TKT-138,24-02-2026,02-03-2026,Technical,P4-Low,Pending Stakeholder,Alpha,West,4
+TKT-139,06-04-2026,,Licensing,P3-Medium,Open,Beta,Central,4
+TKT-140,05-04-2026,,Licensing,P2-High,Pending Stakeholder,Alpha,EMEA,48
+TKT-141,20-04-2026,,Technical,P2-High,Pending Stakeholder,Gamma,Central,24
+TKT-142,15-05-2026,16-05-2026,Escalation,P2-High,Resolved,Delta,East,8
+TKT-143,30-03-2026,09-04-2026,Payments,P3-Medium,Resolved,Beta,APAC,24
+TKT-144,21-01-2026,29-01-2026,Technical,P2-High,In Progress,Alpha,East,4
+TKT-145,05-06-2026,06-06-2026,Licensing,P3-Medium,In Progress,Gamma,Central,8
+TKT-146,14-04-2026,22-04-2026,Title,P1-Critical,Resolved,Beta,Central,4
+TKT-147,10-05-2026,,Title,P1-Critical,Resolved,Alpha,West,8
+TKT-148,16-02-2026,,Payments,P2-High,Closed,Beta,APAC,48
+TKT-149,11-06-2026,,Payments,P2-High,Closed,Gamma,Central,4
+TKT-150,21-01-2026,24-01-2026,Licensing,P1-Critical,Resolved,Gamma,Central,48
+TKT-151,23-03-2026,30-03-2026,Escalation,P1-Critical,Closed,Gamma,Central,4
+TKT-152,06-03-2026,11-03-2026,Licensing,P3-Medium,Resolved,Alpha,EMEA,4
+TKT-153,28-04-2026,03-05-2026,Payments,P3-Medium,Resolved,Beta,East,48
+TKT-154,23-06-2026,02-07-2026,Licensing,P3-Medium,In Progress,Delta,West,48
+TKT-155,10-03-2026,15-03-2026,Licensing,P1-Critical,Closed,Gamma,East,24
+TKT-156,17-04-2026,,Technical,P2-High,Open,Beta,EMEA,48
+TKT-157,22-01-2026,28-01-2026,Technical,P3-Medium,Resolved,Gamma,Central,24
+TKT-158,07-03-2026,,Licensing,P4-Low,In Progress,Gamma,East,24
+TKT-159,13-04-2026,16-04-2026,Escalation,P1-Critical,In Progress,Gamma,West,24
+TKT-160,19-05-2026,22-05-2026,Title,P3-Medium,Open,Alpha,APAC,8
+TKT-161,29-04-2026,06-05-2026,Technical,P3-Medium,Closed,Beta,APAC,8
+TKT-162,08-05-2026,14-05-2026,Title,P2-High,Open,Beta,East,24
+TKT-163,15-02-2026,,Payments,P2-High,Resolved,Delta,West,48
+TKT-164,20-02-2026,,Licensing,P2-High,Resolved,Beta,EMEA,48
+TKT-165,30-05-2026,,Escalation,P3-Medium,Closed,Gamma,APAC,48
+TKT-166,26-03-2026,31-03-2026,Escalation,P2-High,Open,Delta,APAC,8
+TKT-167,15-04-2026,,Payments,P1-Critical,Pending Stakeholder,Alpha,APAC,48
+TKT-168,26-01-2026,02-02-2026,Escalation,P3-Medium,Closed,Alpha,West,48
+TKT-169,29-01-2026,,Escalation,P3-Medium,Pending Stakeholder,Beta,Central,24
+TKT-170,09-02-2026,12-02-2026,Technical,P1-Critical,Resolved,Gamma,APAC,8
+TKT-171,08-05-2026,11-05-2026,Licensing,P3-Medium,Pending Stakeholder,Gamma,Central,8
+TKT-172,03-01-2026,,Technical,P2-High,In Progress,Delta,EMEA,4
+TKT-173,13-02-2026,,Technical,P1-Critical,Pending Stakeholder,Delta,West,24
+TKT-174,12-03-2026,,Escalation,P1-Critical,Open,Alpha,West,24
+TKT-175,24-02-2026,25-02-2026,Title,P4-Low,Closed,Gamma,East,4
+TKT-176,30-04-2026,,Title,P2-High,Pending Stakeholder,Beta,East,48
+TKT-177,02-06-2026,10-06-2026,Licensing,P3-Medium,In Progress,Alpha,West,24
+TKT-178,30-01-2026,04-02-2026,Technical,P4-Low,Pending Stakeholder,Alpha,West,4
+TKT-179,21-01-2026,22-01-2026,Licensing,P3-Medium,Resolved,Alpha,APAC,48
+TKT-180,07-01-2026,14-01-2026,Licensing,P3-Medium,Pending Stakeholder,Gamma,East,4
+TKT-181,19-04-2026,26-04-2026,Payments,P2-High,Closed,Alpha,East,48
+TKT-182,01-06-2026,,Licensing,P1-Critical,Open,Beta,EMEA,4
+TKT-183,14-05-2026,16-05-2026,Payments,P4-Low,Closed,Beta,West,8
+TKT-184,17-02-2026,23-02-2026,Escalation,P1-Critical,In Progress,Delta,East,48
+TKT-185,08-04-2026,09-04-2026,Title,P4-Low,Pending Stakeholder,Alpha,Central,48
+TKT-186,01-04-2026,,Payments,P2-High,In Progress,Alpha,EMEA,8
+TKT-187,30-03-2026,,Escalation,P1-Critical,Pending Stakeholder,Gamma,APAC,4
+TKT-188,14-05-2026,21-05-2026,Technical,P3-Medium,Pending Stakeholder,Beta,Central,24
+TKT-189,24-06-2026,,Licensing,P4-Low,Pending Stakeholder,Delta,East,8
+TKT-190,20-06-2026,21-06-2026,Licensing,P4-Low,Pending Stakeholder,Delta,APAC,48
+TKT-191,19-01-2026,,Escalation,P4-Low,In Progress,Alpha,East,24
+TKT-192,02-06-2026,,Title,P2-High,In Progress,Alpha,Central,8
+TKT-193,28-01-2026,06-02-2026,Technical,P3-Medium,Closed,Beta,West,48
+TKT-194,28-01-2026,04-02-2026,Payments,P2-High,Open,Delta,APAC,48
+TKT-195,15-01-2026,,Technical,P2-High,Pending Stakeholder,Beta,EMEA,4
+TKT-196,20-02-2026,,Technical,P3-Medium,Resolved,Delta,EMEA,4
+TKT-197,12-04-2026,,Technical,P3-Medium,Closed,Beta,Central,4
+TKT-198,25-04-2026,03-05-2026,Technical,P4-Low,Open,Beta,West,4
+TKT-199,09-02-2026,13-02-2026,Escalation,P3-Medium,In Progress,Alpha,West,4
+TKT-200,15-05-2026,20-05-2026,Technical,P2-High,Closed,Alpha,Central,48
+TKT-201,30-04-2026,04-05-2026,Licensing,P3-Medium,Resolved,Gamma,Central,4
+TKT-202,27-05-2026,,Technical,P2-High,Pending Stakeholder,Alpha,East,48
+TKT-203,15-04-2026,,Payments,P2-High,Resolved,Gamma,East,24
+TKT-204,22-01-2026,,Escalation,P2-High,Open,Alpha,Central,8
+TKT-205,16-01-2026,17-01-2026,Licensing,P1-Critical,In Progress,Delta,Central,4
+TKT-206,27-06-2026,03-07-2026,Technical,P2-High,Resolved,Delta,Central,24
+TKT-207,19-03-2026,20-03-2026,Payments,P3-Medium,Closed,Beta,West,8
+TKT-208,17-05-2026,24-05-2026,Escalation,P1-Critical,Open,Beta,Central,4
+TKT-209,14-03-2026,,Escalation,P1-Critical,Resolved,Alpha,EMEA,24
+TKT-210,14-05-2026,23-05-2026,Licensing,P1-Critical,Closed,Delta,East,4
+TKT-211,12-01-2026,21-01-2026,Licensing,P2-High,Resolved,Gamma,EMEA,8
+TKT-212,25-05-2026,26-05-2026,Title,P1-Critical,Open,Gamma,EMEA,8
+TKT-213,15-01-2026,,Title,P1-Critical,Resolved,Gamma,APAC,4
+TKT-214,05-05-2026,,Escalation,P2-High,Pending Stakeholder,Alpha,West,4
+TKT-215,05-06-2026,09-06-2026,Licensing,P2-High,In Progress,Alpha,Central,4
+TKT-216,03-06-2026,,Payments,P3-Medium,Open,Delta,EMEA,4
+TKT-217,11-01-2026,20-01-2026,Technical,P4-Low,Pending Stakeholder,Beta,East,8
+TKT-218,11-04-2026,16-04-2026,Payments,P3-Medium,Resolved,Beta,EMEA,8
+TKT-219,03-03-2026,,Escalation,P4-Low,Resolved,Delta,East,24
+TKT-220,07-02-2026,09-02-2026,Escalation,P2-High,Closed,Beta,West,8
+TKT-221,02-02-2026,08-02-2026,Licensing,P1-Critical,Resolved,Beta,East,8
+TKT-222,14-04-2026,,Technical,P3-Medium,Open,Alpha,West,8
+TKT-223,15-04-2026,17-04-2026,Technical,P3-Medium,Resolved,Alpha,EMEA,48
+TKT-224,15-05-2026,,Title,P2-High,In Progress,Beta,East,48
+TKT-225,22-05-2026,31-05-2026,Payments,P2-High,Open,Alpha,East,8
+TKT-226,11-06-2026,13-06-2026,Technical,P1-Critical,Pending Stakeholder,Beta,Central,4
+TKT-227,26-03-2026,,Licensing,P4-Low,Resolved,Gamma,East,8
+TKT-228,30-04-2026,,Technical,P2-High,Resolved,Delta,EMEA,24
+TKT-229,08-06-2026,,Licensing,P4-Low,Open,Gamma,Central,48
+TKT-230,09-03-2026,11-03-2026,Escalation,P2-High,Closed,Gamma,East,4
+TKT-231,02-06-2026,09-06-2026,Licensing,P3-Medium,Open,Gamma,West,8
+TKT-232,01-02-2026,,Title,P4-Low,Closed,Gamma,APAC,8
+TKT-233,23-05-2026,01-06-2026,Technical,P1-Critical,In Progress,Alpha,East,4
+TKT-234,10-04-2026,13-04-2026,Escalation,P3-Medium,Pending Stakeholder,Delta,West,4
+TKT-235,26-03-2026,29-03-2026,Technical,P1-Critical,Resolved,Beta,EMEA,8
+TKT-236,22-03-2026,24-03-2026,Licensing,P1-Critical,Resolved,Beta,Central,4
+TKT-237,12-06-2026,21-06-2026,Title,P4-Low,Pending Stakeholder,Gamma,APAC,4
+TKT-238,18-01-2026,22-01-2026,Technical,P4-Low,Open,Alpha,East,24
+TKT-239,01-06-2026,,Technical,P4-Low,Resolved,Beta,West,24
+TKT-240,03-01-2026,08-01-2026,Technical,P3-Medium,Resolved,Beta,EMEA,4
+TKT-241,03-04-2026,08-04-2026,Escalation,P1-Critical,Closed,Gamma,Central,48
+TKT-242,16-01-2026,21-01-2026,Escalation,P1-Critical,Open,Alpha,APAC,8
+TKT-243,25-01-2026,02-02-2026,Title,P4-Low,Resolved,Alpha,APAC,4
+TKT-244,10-06-2026,,Title,P1-Critical,Resolved,Beta,APAC,4
+TKT-245,19-05-2026,,Licensing,P2-High,Resolved,Alpha,East,8
+TKT-246,05-01-2026,06-01-2026,Licensing,P4-Low,Pending Stakeholder,Delta,EMEA,48
+TKT-247,09-05-2026,,Title,P2-High,In Progress,Gamma,West,8
+TKT-248,09-02-2026,15-02-2026,Escalation,P4-Low,Open,Alpha,APAC,8
+TKT-249,12-04-2026,16-04-2026,Technical,P3-Medium,In Progress,Alpha,EMEA,8
+TKT-250,04-02-2026,05-02-2026,Technical,P4-Low,Open,Beta,EMEA,8
+TKT-251,06-06-2026,,Technical,P4-Low,Closed,Beta,West,4
+TKT-252,26-02-2026,08-03-2026,Title,P1-Critical,Closed,Gamma,Central,8
+TKT-253,29-01-2026,05-02-2026,Payments,P4-Low,In Progress,Alpha,East,24
+TKT-254,03-05-2026,10-05-2026,Technical,P1-Critical,Resolved,Beta,Central,48
+TKT-255,23-05-2026,01-06-2026,Technical,P3-Medium,Pending Stakeholder,Gamma,EMEA,48
+TKT-256,24-06-2026,27-06-2026,Payments,P3-Medium,Open,Alpha,East,4
+TKT-257,12-05-2026,,Title,P3-Medium,Closed,Beta,West,24
+TKT-258,03-01-2026,09-01-2026,Title,P4-Low,Closed,Gamma,EMEA,4
+TKT-259,28-03-2026,29-03-2026,Escalation,P2-High,Closed,Alpha,West,8
+TKT-260,17-06-2026,22-06-2026,Technical,P4-Low,In Progress,Delta,Central,4
+TKT-261,26-02-2026,,Licensing,P1-Critical,Closed,Delta,East,24
+TKT-262,05-01-2026,,Payments,P3-Medium,Resolved,Gamma,East,8
+TKT-263,14-06-2026,,Escalation,P1-Critical,Closed,Alpha,West,48
+TKT-264,12-01-2026,21-01-2026,Payments,P2-High,Resolved,Delta,West,24
+TKT-265,17-05-2026,19-05-2026,Escalation,P2-High,Pending Stakeholder,Alpha,East,8
+TKT-266,19-02-2026,24-02-2026,Escalation,P2-High,Closed,Delta,East,8
+TKT-267,30-04-2026,,Licensing,P3-Medium,Closed,Gamma,West,4
+TKT-268,30-01-2026,,Title,P3-Medium,In Progress,Delta,Central,24
+TKT-269,30-04-2026,06-05-2026,Payments,P2-High,Closed,Beta,East,4
+TKT-270,24-02-2026,,Technical,P2-High,Resolved,Gamma,East,8
+TKT-271,05-03-2026,,Title,P2-High,Closed,Beta,West,4
+TKT-272,14-04-2026,24-04-2026,Payments,P4-Low,In Progress,Alpha,EMEA,48
+TKT-273,29-03-2026,,Technical,P2-High,Resolved,Alpha,Central,24
+TKT-274,24-05-2026,,Escalation,P2-High,Pending Stakeholder,Gamma,EMEA,8
+TKT-275,03-04-2026,,Licensing,P4-Low,Open,Gamma,Central,24
+TKT-276,12-03-2026,,Payments,P1-Critical,Pending Stakeholder,Beta,EMEA,8
+TKT-277,23-06-2026,,Technical,P2-High,Pending Stakeholder,Alpha,Central,48
+TKT-278,22-02-2026,,Payments,P1-Critical,In Progress,Beta,West,24
+TKT-279,08-01-2026,09-01-2026,Licensing,P2-High,Open,Gamma,EMEA,8
+TKT-280,21-03-2026,30-03-2026,Technical,P4-Low,In Progress,Alpha,APAC,8
+TKT-281,28-01-2026,07-02-2026,Technical,P2-High,Closed,Gamma,Central,8
+TKT-282,28-02-2026,06-03-2026,Licensing,P1-Critical,Pending Stakeholder,Delta,EMEA,4
+TKT-283,30-01-2026,,Escalation,P3-Medium,Open,Gamma,East,24
+TKT-284,23-04-2026,01-05-2026,Technical,P2-High,In Progress,Gamma,APAC,48
+TKT-285,02-03-2026,04-03-2026,Title,P4-Low,Open,Gamma,EMEA,48
+TKT-286,18-01-2026,,Licensing,P3-Medium,Closed,Beta,EMEA,8
+TKT-287,25-01-2026,26-01-2026,Technical,P2-High,Open,Beta,APAC,8
+TKT-288,30-03-2026,31-03-2026,Payments,P4-Low,Closed,Gamma,APAC,8
+TKT-289,09-04-2026,19-04-2026,Licensing,P2-High,In Progress,Alpha,EMEA,24
+TKT-290,13-03-2026,17-03-2026,Technical,P1-Critical,Resolved,Gamma,Central,48
+TKT-291,04-03-2026,,Payments,P2-High,Resolved,Gamma,EMEA,48
+TKT-292,20-04-2026,30-04-2026,Escalation,P4-Low,In Progress,Alpha,West,24
+TKT-293,19-03-2026,,Licensing,P4-Low,Closed,Beta,East,8
+TKT-294,17-04-2026,20-04-2026,Payments,P4-Low,In Progress,Gamma,West,48
+TKT-295,12-01-2026,,Escalation,P4-Low,In Progress,Delta,EMEA,24
+TKT-296,09-02-2026,15-02-2026,Title,P4-Low,In Progress,Gamma,Central,48
+TKT-297,17-03-2026,24-03-2026,Licensing,P1-Critical,Resolved,Alpha,EMEA,4
+TKT-298,15-05-2026,25-05-2026,Title,P4-Low,Pending Stakeholder,Gamma,East,4
+TKT-299,05-03-2026,07-03-2026,Technical,P2-High,In Progress,Delta,EMEA,8
+TKT-300,03-05-2026,,Licensing,P2-High,Resolved,Alpha,APAC,24
