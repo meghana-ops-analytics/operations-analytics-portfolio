@@ -1,1 +1,0 @@
-# Jira Scrum Project
