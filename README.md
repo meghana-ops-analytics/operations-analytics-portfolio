@@ -19,8 +19,16 @@ Operations & Project Management professional with 6+ years of experience across 
 ### 2. Jira Project (Planned)
 **Multi-Project Coordination Dashboard** demonstrating Agile methodology across 3 concurrent projects.
 
-**Status:** 🚧 Planned
+**Status:** ✅ Complete (25 stories across 3 Epics, 4 sprints, with timeline and dashboard)
 
+## Key Achievements
+
+- **Process Optimization:** Co-developed a hyperlinked routing guide adopted by 40–60 associates and formally approved as the team standard, reducing resolution time significantly.
+- **Quality & Compliance:** Sustained operational quality above 95% and stakeholder satisfaction above 90% across 2+ years in a compliance-driven environment.
+- **Stakeholder Recognition:** Repeatedly recognized by Google recruiting stakeholders for ownership, responsiveness, and consistent delivery of a high-quality experience.
+- **Leadership:** Designed and executed a graduated onboarding curriculum for 10–15 new hires per batch, reducing time-to-competency by standardizing training.
+- **Workforce Planning:** Prepared daily MIS performance reports for senior leadership, analyzing shrinkage, attrition, and throughput to inform resource allocation.
+  
 ## Certifications
 - Certified ScrumMaster® (CSM)
 - Google AI Essentials
